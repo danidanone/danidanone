@@ -1,50 +1,38 @@
-<h1 align="center">¡Hola! 👋 Soy Danidanoe</h1>
+# 👋 ¡Hola! Soy DaniDanone
 
-<p align="center">
-  💻 Desarrollador apasionado por la tecnología <br/>
-  🚀 Siempre aprendiendo cosas nuevas <br/>
-  🌍 Amante del código limpio y los buenos retos
-</p>
+![GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/es/view/trollface-troll-face-terror-png-troll-face-troll-face-phonk-troll-face-png-gif-10540958171245809943))
 
----
+🎯 Apasionado por la tecnología, el desarrollo de software y crear cosas que realmente funcionen. Siempre aprendiendo, siempre construyendo.
 
-### 🧠 Sobre mí
+## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en: **proyectos personales y colaborativos**
-- 🌱 Aprendiendo: **React, Docker y buenas prácticas de arquitectura**
-- 💬 Pregúntame sobre: **JavaScript, Python, Git, y desarrollo web**
-- ⚡ Fun fact: Me encanta resolver bugs como si fueran acertijos 🧩
+- 🧠 Desarrollador con ganas de romperla en el mundo tech  
+- 💻 Me encanta trabajar con **JavaScript**, **Python**, y **React**  
+- 🔧 Jugando con **APIs**, **automatización** y **IA**  
+- 🌱 Aprendiendo actualmente: **Next.js** y **Docker**  
+- ⚡ Fun fact: Mi código compila... ¡y a veces incluso funciona!
 
----
+## 🛠️ Tecnologías
 
-### 🛠️ Tecnologías que uso
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+## 📈 Estadísticas
 
----
+![DaniDanone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidanone&show_icons=true&theme=radical)
 
-### 📈 Estadísticas de GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidanone&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danidanoe&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidanoe&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
+## 📫 Conectá conmigo
+
+- 💬 Me encontrás en [Twitter](https://twitter.com/danidanone)
+- 💼 También en [LinkedIn](https://www.linkedin.com/in/danidanone)
+- 🌐 O armamos algo en [danidanone.dev](https://danidanone.dev)
 
 ---
 
-### 📫 ¡Conéctate conmigo!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/-Portafolio-black?style=flat-square&logo=firefox&logoColor=white)](https://tuportafolio.com)
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
+> "Código limpio, mente clara. Si no rompe nada, no aprendés nada." — algún dev con sueño a las 3 AM
