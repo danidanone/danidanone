@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy DaniDanone
 
-![GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/es/view/trollface-troll-face-terror-png-troll-face-troll-face-phonk-troll-face-png-gif-10540958171245809943))
+![GIF]("https://tenor.com/search/trollface-stickers")
 
 🎯 Apasionado por la tecnología, el desarrollo de software y crear cosas que realmente funcionen. Siempre aprendiendo, siempre construyendo.
 
