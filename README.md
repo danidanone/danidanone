@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy DaniDanone
 
-![GIF]([https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif](https://tenor.com/es/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292))
+![GIF]([https://tenor.com/es/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292))
 
 🎯 Apasionado por la tecnología, el desarrollo de software y crear cosas que realmente funcionen. Siempre aprendiendo, siempre construyendo.
 
