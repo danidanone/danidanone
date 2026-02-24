@@ -1,92 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=350&section=header&text=DANIEL%20LOPEZ&fontSize=90&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=⚡%20AUTODIDACTA%20%7C%20🏎️%20SIM%20RACING%20DEV%20%7C%20🔥%20OPEN%20TO%20WORK%20⚡&descAlignY=62&descAlign=50&descSize=18&stroke=FF0080&strokeWidth=3" />
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,50:1a0a2e,100:0a0a0a&height=280&section=header&text=DANIEL%20LOPEZ&fontSize=80&fontColor=00FFFF&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20DEV%20%7C%20SIM%20RACING%20ENGINEER%20%7C%20AUTODIDACTA&descAlignY=68&descSize=16&descFontColor=FF0060&stroke=00FFFF&strokeWidth=2" />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1500&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=⚡+BIENVENIDO+A+MI+PERFIL+⚡;🔥+ESTO+NO+ES+UN+README+NORMAL+🔥;🏎️+TELEMETRÍA+EN+TIEMPO+REAL;💀+CÓDIGO+O+MUERTE+💀;🚀+JAVASCRIPT+%2B+PYTHON+%2B+LUA;🧠+AUTODIDACTA+AL+100%25+%3D+NO+EXCUSAS;⚡+SI+PUEDES+LEER+ESTO+CONTRÁTAME+⚡" />
+
+```
+◄━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━►
+              S Y S T E M   I N I T I A L I Z I N G . . .
+◄━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━►
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2000&pause=400&color=00FFFF&center=true&vCenter=true&repeat=true&width=700&lines=FULL+STACK+ENGINEER+%2F%2F+AUTODIDACTA;SIM+RACING+SYSTEMS+%2F%2F+TELEMETRÍA+REAL-TIME;JAVASCRIPT+%2B+PYTHON+%2B+LUA+%2F%2F+STACK+COMPLETO;OPEN+TO+WORK+%2F%2F+CONTRÁTAME+O+LLORA;NO+BOOTCAMP.+NO+TÍTULO.+SOLO+CÓDIGO." />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
-</div>
 
-<br/>
+[![Status](https://img.shields.io/badge/STATUS-ONLINE_Y_BUSCANDO_TRABAJO-00FF88?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=00FF88)](https://github.com/danidanone)
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-FULL_STACK_DEV-FF0060?style=for-the-badge&labelColor=0a0a0a)](https://github.com/danidanone)
+[![Location](https://img.shields.io/badge/UBICACIÓN-ESPAÑA_🇪🇸-00FFFF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/danidanone)
+[![Views](https://komarev.com/ghpvc/?username=danidanone&style=for-the-badge&color=FF0060&label=VISITAS&labelColor=0a0a0a)](https://github.com/danidanone)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_CONTRÁTAME-FF0080?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡_OPEN_TO_WORK-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💀_BUGS_FEAR_ME-6E40C9?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=danidanone&style=for-the-badge&color=FF0080&label=👁️+VÍCTIMAS" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" />
-</div>
+## `// BOOT SEQUENCE: WHO AM I`
 
----
+<table>
+<tr>
+<td width="55%">
 
-## 💀 Quién Diablos Soy
-
-<div align="left">
-
-```javascript
-const daniel = {
-  alias:       "danidanone 🍮",
-  ubicacion:   "España 🇪🇸 (donde el sol abrasa y el código también)",
-  modo:        "BESTIA MODE ACTIVADO 🔥",
-
-  habilidades: {
-    frontend:  ["JavaScript 💛", "React ⚛️", "Next.js ▲", "CSS que sí funciona 🎨"],
-    backend:   ["Python 🐍", "Node.js 💚", "WebSockets 🔌", "REST APIs 🚀"],
-    wtf:       ["Lua 🌙", "UDP Sockets 📡", "Telemetría de coches 🏎️"],
-    devops:    ["Docker 🐳", "Git (y git blame para culpar a otros) 😈"],
-  },
-
-  filosofia:   "No hay Stack Overflow que no haya visitado a las 3AM",
-  aprendizaje: "AUTODIDACTA — sin academia, sin excusas, solo código",
-  buscando:    ["Trabajo 💼", "Colaboraciones 🤝", "Gente que entienda mis chistes de código"],
+```typescript
+interface Developer {
+  alias:     "danidanone 🍮";
+  location:  "España 🇪🇸";
   
-  estadoActual: () => {
-    while (true) {
-      escribirCodigo()
-      romperlo()
-      arreglarlo()
-      // repetir hasta morir
-    }
+  stack: {
+    frontend:   ["JavaScript", "React", "Next.js"];
+    backend:    ["Python", "Node.js", "REST APIs"];
+    realtime:   ["WebSockets", "UDP Sockets"];
+    specialty:  ["Lua", "Sim Racing Telemetry"];
+    devops:     ["Docker", "Linux", "Git"];
+  };
+
+  currently:  "AC Telemetry Server 🏎️";
+  philosophy: "Los errores son el mejor profesor";
+  learning:   "autodidacta — sin academia, solo código";
+
+  available(): boolean {
+    return true; // SIEMPRE para lo correcto
   }
 }
 ```
 
-</div>
+</td>
+<td width="45%" align="center">
+
+```
+┌─────────────────────────────┐
+│  TELEMETRY FEED — LIVE      │
+├─────────────────────────────┤
+│  🏎️  SECTOR 1  ██████ 1.2s  │
+│  🏎️  SECTOR 2  ████░░ 0.9s  │
+│  🏎️  SECTOR 3  █████░ 1.1s  │
+├─────────────────────────────┤
+│  FUEL    ████████░░  84%    │
+│  TYRES   ███████░░░  72%    │
+│  FOCUS   ██████████  99%    │
+├─────────────────────────────┤
+│  GAP TO HIRED:  -0.003s     │
+│  PERSONAL BEST: ALWAYS      │
+└─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ MODO MATRIX ACTIVADO ⚡
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeR9Or19NJ/giphy.gif" width="400" />
-</div>
-
----
-
-## 🛠️ Mi Arsenal (AKA Las Armas del Crimen)
+## `// TECH STACK: EL ARSENAL`
 
 <div align="center">
 
-### 💛 Lenguajes con los que hablo fluido
-<img src="https://skillicons.dev/icons?i=js,python,lua,html,css,bash&theme=dark&perline=6" />
+### `[ LENGUAJES ]`
+<img src="https://skillicons.dev/icons?i=js,ts,python,lua,html,css,bash&theme=dark&perline=7" />
 
-### ⚛️ Frameworks que domino (y que me dominan a veces)
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark&perline=6" />
+### `[ FRAMEWORKS & RUNTIME ]`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&theme=dark&perline=5" />
 
-### 🔧 Herramientas de destrucción masiva
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark&perline=6" />
+### `[ INFRAESTRUCTURA ]`
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark&perline=5" />
 
 </div>
 
@@ -94,66 +104,80 @@ const daniel = {
 
 <div align="center">
 
-![JS](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Serpiente_Domada-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-Componentes_Infinitos-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-Por_Assetto_Corsa-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Ballena_Amiga-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-git_push_--force-F05032?style=flat-square&logo=git&logoColor=white)
+| Tecnología | Nivel | Contexto |
+|:----------:|:-----:|:--------:|
+| `JavaScript` | ████████████ 95% | Frontend / Backend / Todo |
+| `Python` | ███████████░ 88% | Servers / Telemetría / APIs |
+| `React / Next.js` | ██████████░░ 82% | UIs que no duelen los ojos |
+| `Lua` | █████████░░░ 75% | Assetto Corsa mods |
+| `Docker` | ████████░░░░ 70% | Contenedores sin drama |
+| `WebSockets` | ████████████ 92% | Tiempo real o nada |
 
 </div>
 
 ---
 
-## 🏎️💨 EL PROYECTO QUE ME QUITA EL SUEÑO
+## `// FLAGSHIP PROJECT: AC TELEMETRY SERVER`
 
 <div align="center">
 
 ```
-█████████████████████████████████████████████████████████████
-█                                                           █
-█   🏎️💨  AC TELEMETRY SERVER  — TIEMPO REAL O MUERTE  💨🏎️  █
-█                                                           █
-█   Assetto Corsa → Lua → UDP → Python → WebSocket → 🌐   █
-█                                                           █
-█   ✅ Leaderboard en vivo      ✅ Gaps entre rivales       █
-█   ✅ Telemetría de neumáticos  ✅ Combustible & Clima      █
-█   ✅ Posiciones adelantadas    ✅ Dashboard web brutal     █
-█   ✅ REST API completa         ✅ 30fps de datos puros     █
-█                                                           █
-█   Stack: Python 🐍 | Lua 🌙 | WebSocket ⚡ | UDP 📡      █
-█                                                           █
-█████████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🏎️  AC TELEMETRY SERVER  ·  REAL-TIME SIM RACING DASHBOARD  🏎️    ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ASSETTO CORSA  ──►  Lua Plugin  ──►  UDP  ──►  Python Server       ║
+║                                              ↓                       ║
+║                                  WebSocket Broadcast                 ║
+║                                              ↓                       ║
+║                          React Dashboard  ◄──►  REST API             ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ✅ Leaderboard en vivo (30fps)    ✅ Gaps entre rivales en ms       ║
+║  ✅ Telemetría de neumáticos       ✅ Gestión de combustible          ║
+║  ✅ Condiciones meteorológicas     ✅ REST API documentada            ║
+║  ✅ Dashboard web responsive       ✅ Multi-cliente simultáneo        ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  STACK: Python 🐍 · Lua 🌙 · WebSocket ⚡ · UDP 📡 · React ⚛️      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400" />
+[![AC Telemetry](https://img.shields.io/badge/VER_PROYECTO-AC_TELEMETRY_SERVER-00FFFF?style=for-the-badge&labelColor=0a0a0a&logo=github)](https://github.com/danidanone)
 
 </div>
 
 ---
 
-## 📊 MIS NÚMEROS (No miréis los commits de 2019)
+## `// METRICS: LOS NÚMEROS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danidanone&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF0080&icon_color=FF0080&text_color=ffffff&include_all_commits=true&count_private=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidanone&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF0080&text_color=ffffff&langs_count=8&border_radius=10" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=danidanone&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF0060&text_color=ffffff&include_all_commits=true&count_private=true&border_radius=8&rank_icon=github&custom_title=ESTADÍSTICAS+DE+COMBATE" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidanone&layout=donut&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=ffffff&langs_count=8&border_radius=8&custom_title=LENGUAJES+EN+ROTACIÓN" width="49%" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danidanone&theme=radical&hide_border=true&background=0D0D0D&ring=FF0080&fire=FF0080&currStreakLabel=FF0080&sideLabels=ffffff&dates=888888&border_radius=10" width="60%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danidanone&theme=radical&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FF0060&currStreakLabel=00FFFF&sideLabels=ffffff&dates=666666&border_radius=8" width="65%" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danidanone&theme=redical&bg_color=0D0D0D&color=FF0080&line=FF0080&point=ffffff&hide_border=true&area=true&area_color=FF0080" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danidanone&theme=react-dark&bg_color=0D0D0D&color=00FFFF&line=FF0060&point=ffffff&hide_border=true&area=true&area_color=00FFFF" width="95%" />
 </div>
 
 ---
 
-## 🐍 La Serpiente se Come Mis Contribuciones
+## `// CONTRIBUTION GRID`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/danidanone/danidanone/output/github-contribution-grid-snake-dark.svg" />
@@ -161,59 +185,49 @@ const daniel = {
 
 ---
 
-## 🏆 Trofeos (Sí, GitHub da trofeos)
+## `// TROPHIES`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danidanone&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danidanone&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
 
-## 🎵 Lo Que Escucho Mientras Codifico
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-  
-  *Probablemente algo que no te gusta pero que me hace codificar más rápido*
-</div>
-
----
-
-## 🤝 ¿QUIERES CONSTRUIR ALGO ÉPICO?
+## `// OPEN TO WORK: CONTACTO`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" />
-
-### Estoy buscando activamente:
-**💼 Trabajo** · **🤝 Colaboraciones** · **🚀 Proyectos Locos** · **💡 Ideas Imposibles**
-
-*Si tienes un proyecto raro, una idea sin sentido o simplemente quieres hablar de coches y código — soy tu hombre.*
+```
+◄━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━►
+   ¿PROYECTO RARO? ¿IDEA SIN SENTIDO? ¿SISTEMA REAL-TIME?
+             → ENTONCES NECESITAS HABLAR CONMIGO
+◄━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━►
+```
 
 <br/>
 
 <a href="mailto:tu@email.com">
-  <img src="https://img.shields.io/badge/📩_ESCRÍBEME_YA-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-ESCRÍBEME-FF0060?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tu-perfil">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONÉCTATE-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/danidanone">
-  <img src="https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-REPOS-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
+> *"El mejor código que escribí fue el que me rompió la cabeza durante tres noches seguidas."*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=twinkling&text=NO+ME+ENSEÑÓ+NADIE.+ME+ENSEÑARON+LOS+ERRORES.&fontSize=20&fontColor=ffffff&fontAlignY=65" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,100:0a0a0a&height=180&section=footer&text=NO+ME+ENSEÑÓ+NADIE.+ME+ENSEÑARON+LOS+ERRORES.&fontSize=18&fontColor=00FFFF&fontAlignY=65&animation=twinkling" />
+
 </div>
