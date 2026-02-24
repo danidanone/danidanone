@@ -1,37 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Daniel%20Lopez&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Desarrollador%20autodidacta%20%7C%20Construyendo%20el%20futuro%20una%20línea%20a%20la%20vez&descAlignY=58&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Daniel%20Lopez&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Desarrollador%20Autodidacta%20%7C%20Construyendo%20el%20futuro&descAlignY=58&descAlign=50&descSize=20&stroke=6E40C9&strokeWidth=2" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Desarrollador+JavaScript+%26+Python;🔧+APIs+%7C+WebSockets+%7C+Tiempo+Real;🏎️+Telemetría+para+Assetto+Corsa;🤝+Abierto+a+colaboraciones+y+proyectos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🚀+Desarrollador+JavaScript+%26+Python;🏎️+Telemetría+en+Tiempo+Real+para+AC;🔧+APIs+%7C+WebSockets+%7C+UDP+%7C+Lua;🤝+Abierto+a+colaboraciones+y+trabajo;⚡+Autodidacta+%7C+Aprendiendo+siempre" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="lopezedani06@gmail.com">
-    <img src="https://img.shields.io/badge/📩_Contáctame-6E40C9?style=for-the-badge&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/🤝_Abierto_a_colaborar-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=danidanone&style=for-the-badge&color=6E40C9&label=VISITAS" />
+  <img src="https://img.shields.io/badge/🤝_Disponible_para_trabajar-00C853?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_España-6E40C9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=danidanone&style=for-the-badge&color=6E40C9&label=👁️+VISITAS+AL+PERFIL" />
 </div>
+
+<br/>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ## 👾 Sobre mí
 
-Soy **desarrollador autodidacta** apasionado por construir herramientas que de verdad funcionen y aporten valor. Me formé solo, aprendiendo con proyectos reales, errores reales y muchas horas frente a la pantalla.
+Soy **desarrollador autodidacta** que aprendió programando proyectos reales — sin bootcamps, sin cursos caros. Solo código, errores y constancia.
 
-- 🧠 **Autodidacta 100%** — aprendí programando proyectos reales
-- 🏎️ Actualmente construyendo un sistema de **telemetría en tiempo real** para Assetto Corsa
-- 🔌 Obsesionado con **WebSockets**, **APIs** y datos en tiempo real
-- 🌱 Expandiendo mis conocimientos en **Next.js** y **Docker**
-- 🤝 **Abierto a colaboraciones**, proyectos freelance y oportunidades laborales
-- ⚡ Creo que la mejor forma de aprender es rompiendo cosas y arreglándolas
+- 🧠 **Autodidacta 100%** — aprendí en las trincheras
+- 🏎️ Construyendo telemetría en tiempo real para **Assetto Corsa**
+- 🔌 Fanático de **WebSockets**, **UDP** y datos en vivo
+- 🌱 Aprendiendo: **Next.js** y **Docker**
+- 🤝 Buscando **trabajo y colaboraciones**
+- ⚡ Si no lo rompo, no lo aprendo
 
-<br clear="right"/>
+<br/>
+
+> *"No me enseñó nadie.*
+> *Me enseñaron los errores."*
+
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,51 +53,84 @@ Soy **desarrollador autodidacta** apasionado por construir herramientas que de v
 
 <div align="center">
 
-**Frontend**
+**⚡ Frontend**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
 
-**Backend & DevOps**
+**🔧 Backend & DevOps**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,docker,git,vscode,linux&theme=dark" />
+
+**🎮 Especialidades**
+
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-**Herramientas**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/UDP_Sockets-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Tiempo_Real-FF4444?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏎️ Proyecto destacado
+## 🏎️ Proyecto Estrella
 
-> **AC Telemetry Server** — Sistema completo de telemetría en tiempo real para Assetto Corsa.
-> Captura datos del juego vía **UDP** (Lua + SimHub), los procesa en **Python** y los expone
-> mediante **WebSocket** y **REST API**. Incluye leaderboard en vivo, gaps entre pilotos,
-> datos de neumáticos, combustible, clima y más.
->
-> `Python` `WebSocket` `UDP` `Lua` `REST API` `Tiempo Real`
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🏎️  AC TELEMETRY SERVER                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  Sistema completo de telemetría en tiempo real               ║
+║  para Assetto Corsa                                          ║
+║                                                              ║
+║  📡 Assetto Corsa → Lua (SimHub) → UDP → Python Server       ║
+║  🌐 Python Server → WebSocket → Dashboard Web               ║
+║  🔌 Python Server → REST API → Cualquier cliente            ║
+║                                                              ║
+║  ✅ Leaderboard en vivo      ✅ Gaps entre pilotos           ║
+║  ✅ Telemetría de neumáticos  ✅ Datos de combustible        ║
+║  ✅ Clima en tiempo real      ✅ Posiciones y adelantamientos║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+`Python` · `WebSocket` · `UDP` · `Lua` · `REST API` · `aiohttp` · `asyncio`
+
+</div>
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danidanone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidanone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danidanone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidanone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&count_private=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danidanone&theme=radical&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danidanone&theme=radical&hide_border=true&background=0D1117&ring=6E40C9&fire=FF4444&currStreakLabel=6E40C9&sideLabels=6E40C9" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danidanone&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danidanone/danidanone/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> ⚠️ Para activar la serpiente necesitas crear un GitHub Action en tu repo. Te explico cómo abajo.
+
+---
+
+## 📈 Actividad Reciente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danidanone&theme=react-dark&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9" width="100%" />
 </div>
 
 ---
@@ -92,27 +139,27 @@ Soy **desarrollador autodidacta** apasionado por construir herramientas que de v
 
 <div align="center">
 
-Estoy buscando activamente **colaboraciones, proyectos freelance y oportunidades laborales**.<br/>
-Si tienes una idea o un proyecto en mente, hablemos.
+**Estoy buscando activamente colaboraciones, proyectos freelance y oportunidades laborales.**
+Si tienes una idea o un proyecto en mente — hablemos.
 
 <br/>
 
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/danidanone">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="mailto:tu@email.com">
+  <img src="https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/tu-perfil">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/danidanone">
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-  <sub><i>"No me enseñó nadie. Me enseñaron los errores."</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" />
 </div>
